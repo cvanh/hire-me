@@ -1,6 +1,6 @@
 # pull en commit die handel
 
-[![cvanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvanh)]
+[cvanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvanh)
 
 # vouches
 ```
