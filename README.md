@@ -10,4 +10,5 @@ why are you so retarded? - @gio
 +1 - anon
 ++1 - anon
 this guy has asked the dumbest question on stack overflow - stack overflow commenter 
+I Miss 10 Seconds Ago Where I Didn't Know This Existed - crepe
 ```
