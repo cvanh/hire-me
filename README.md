@@ -1,6 +1,6 @@
 # pull en commit die handel
 
-![your stats](http://83.162.165.175/portofolio/backend/src/svg_tracking/github.svg)
+![your stats](http://83.162.165.175/portofolio/backend/src/tracking/png/github.php)
 
 
 ![cvanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvanh&theme=radical)
