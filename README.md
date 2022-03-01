@@ -1,4 +1,4 @@
-my motto:
+my motto: <br/>
 `git commit --no-verify -m "commit" | git push --force`
 
 ![your stats](http://83.162.165.175/portofolio/backend/src/tracking/png/github.php)
