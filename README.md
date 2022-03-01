@@ -1,9 +1,10 @@
 my motto: <br/>
 `git commit --no-verify -m "commit" | git push --force`
 
+# tracking
 ![your stats](http://83.162.165.175/portofolio/backend/src/tracking/png/github.php)
 
-
+# some stats about me
 ![cvanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvanh&theme=radical)
 
 # vouches
@@ -16,5 +17,5 @@ why are you so retarded? - @gio
 this guy has asked the dumbest question on stack overflow - stack overflow commenter 
 I Miss 10 Seconds Ago Where I Didn't Know This Existed - crepe
 ```
-
+# pgp
 <a href="https://raw.githubusercontent.com/cvanh/cvanh/main/vanhartes.asc">my pgp key</a>
