@@ -14,7 +14,7 @@ why does he still have the right to breath? - some guy on discord
 why are you so retarded? - @gio
 +1 - anon
 ++1 - anon
-this guy has asked the dumbest question on stack overflow - stack overflow commenter 
+oh het toch helemaal niet goed komen met jouw in de maatschapij - @gio
 I Miss 10 Seconds Ago Where I Didn't Know This Existed - crepe
 ```
 # pgp
