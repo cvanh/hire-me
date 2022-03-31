@@ -12,7 +12,7 @@ my motto: <br/>
 worst guy i have ever worked with - anon
 why does he still have the right to breath? - some guy on discord
 why are you so retarded? - @gio
-+1 - anon
+please leave me alone, who are you and what are you doing in my house - mike at Bezuidenhoutseweg 67, 2594 AC Den Haag
 ++1 - anon
 oh het toch helemaal niet goed komen met jouw in de maatschapij - @gio
 I Miss 10 Seconds Ago Where I Didn't Know This Existed - crepe
