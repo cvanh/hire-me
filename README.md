@@ -1,3 +1,5 @@
+welcome to my profile, here you can see all my code. If you are browsing I can really recommend browsing some of my organistations since I have alot of my repo's stored there.
+
 my motto: <br/>
 `git commit --no-verify -m "commit" | git push --force`
 
