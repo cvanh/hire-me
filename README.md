@@ -1,20 +1,12 @@
+![IMG_3627](https://github.com/cvanh/cvanh/assets/39672378/b6565597-c41f-4888-a5ac-060856de121d)
+
 welcome to my profile, here you can see all my code. If you are browsing I can really recommend browsing some of my organistations since I have alot of my repo's stored there.
 
-my motto: <br/>
-`git commit --no-verify -m "commit" | git push --force`
+If you don't have the time for that. Hello I am Constantijn I am based in Holland(or somewhere with mountains). I am a software developer/anthropologist.
+I enjoy working towards a world with better software; I do this together with clients and colleagues to identify opportunities and improve what's there. I also do this, if necessary, when I have to use PUSH RSP.
 
-# some stats about me
-![cvanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvanh&theme=radical)
 
-# vouches
-```
-worst guy i have ever worked with - anon
-why does he still have the right to breath? - some guy on discord
-why are you so retarded? - @gio
-please leave me alone, who are you and what are you doing in my house - mike at Bezuidenhoutseweg 67, 2594 AC Den Haag
-++1 - anon
-oh het toch helemaal niet goed komen met jouw in de maatschapij - @gio
-I Miss 10 Seconds Ago Where I Didn't Know This Existed - crepe
-```
-# pgp
+# socials
 <a href="https://raw.githubusercontent.com/cvanh/cvanh/main/vanhartes.asc">my pgp key</a>
+<a href="https://www.linkedin.com/in/constantijnvanhartesveldt/">linkedin</a>
+
